@@ -1,0 +1,16 @@
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\bin\Debug\net5.0\FinanciamentoModel.deps.json
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\bin\Debug\net5.0\FinanciamentoModel.runtimeconfig.json
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\bin\Debug\net5.0\FinanciamentoModel.runtimeconfig.dev.json
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\bin\Debug\net5.0\FinanciamentoModel.dll
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\bin\Debug\net5.0\ref\FinanciamentoModel.dll
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\bin\Debug\net5.0\FinanciamentoModel.pdb
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\FinanciamentoModel.csproj.AssemblyReference.cache
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\FinanciamentoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\FinanciamentoModel.AssemblyInfoInputs.cache
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\FinanciamentoModel.AssemblyInfo.cs
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\FinanciamentoModel.csproj.CoreCompileInputs.cache
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\FinanciamentoModel.dll
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\ref\FinanciamentoModel.dll
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\FinanciamentoModel.pdb
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\FinanciamentoModel.genruntimeconfig.cache
+C:\Users\andfe\OneDrive\Documentos\ProjetoFinanciamento\FinanciamentoImovel\FinanciamentoModel\obj\Debug\net5.0\RefitStubs.g.cs
